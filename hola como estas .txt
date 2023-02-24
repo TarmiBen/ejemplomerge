@@ -5,6 +5,8 @@ hola esta es la linea del porfe ben
 Bueos días!!
 Helow Xb
 
+correcciones de codigo que hice a partir del codigo de sandra
+
 // seccion nueva para ben
 hola aqui puedo modificar a mi antojo lo que yo quieera
 
